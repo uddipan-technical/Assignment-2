@@ -1,0 +1,83 @@
+body{
+    font-family:
+    padding: 0;
+    margin: 0;
+    border:10px solid orange;
+}
+h1 {
+    font-size: 40px;
+    transform: scale(1, 2);
+    color: #FABE4C;
+    font-weight: 800;
+    line-height: 70px;
+  }
+  h5{
+      font-weight: 700;
+  }
+  h6{
+      font-weight: 700;
+  }
+  li{
+      color: #6B6A67;
+  }
+
+p{
+    font-size: 14px;
+    line-height: 20px;
+}
+.lighter{
+    color: #363958;
+}
+.card-img{
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+.price{
+    font-size: 35px;
+    font-weight: 700;
+    color: #FABE4C;
+}
+
+.card-border{
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 10px;
+}
+.bg-color{
+    background-color:#ECECEC;
+    border-radius: 10px;
+}
+.jacket-title{
+    font-weight: 900;
+    font-size: 30px;
+    transform: scale(.96,2);
+    margin-top: 30px;
+}
+.about-section{
+    
+    margin-top: 127px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+    padding: 30px 0;
+    margin-top: 30px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+}
+
+@media screen and (max-width:768px){
+   
+}
+
+
+/
